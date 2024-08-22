@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+.main-container{
+	width:100%;
+	text-align:center;
+	border:2px solid;
+	background-color:black;
+}
+h1{
+	color:white;
+}
+img{
+	width:160px;
+	padding-bottom:5px;
+	border-radius:15px
+	
+}
